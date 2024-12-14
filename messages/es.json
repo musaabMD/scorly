@@ -1,0 +1,75 @@
+
+{
+  "ExamCategories": {
+    "title": "Exam prep built to help you pass",
+    "categories": {
+      "behavioral-health": {
+        "title": "Behavioral Health"
+      },
+      "ems": {
+        "title": "EMS"
+      },
+      "essentials": {
+        "title": "Essentials"
+      },
+      "fitness": {
+        "title": "Fitness"
+      },
+      "it-cybersecurity": {
+        "title": "IT & Cybersecurity"
+      },
+      "medical": {
+        "title": "Medical"
+      },
+      "nursing": {
+        "title": "Nursing"
+      },
+      "nursing-school": {
+        "title": "Nursing School"
+      },
+      "professional": {
+        "title": "Professional"
+      },
+      "skilled-trades": {
+        "title": "Skilled Trades"
+      }
+    }
+  },
+  "ExamList": {
+    "questionCount": "{count, number} Questions",
+    "startPractice": "Start Practice",
+    "exams": {
+      "firefighter-1-2": {
+        "title": "Firefighter I & II",
+        "subtitle": "Firefighter"
+      },
+      "nremt-aemt": {
+        "title": "NREMT® AEMT",
+        "subtitle": "Advanced Emergency Medical Technician"
+      },
+      "ibsc-ccp-c": {
+        "title": "IBSC CCP-C®",
+        "subtitle": "Critical Care Paramedic-Certified"
+      },
+      "ibsc-fp-c": {
+        "title": "IBSC FP-C®",
+        "subtitle": "Certified Flight Paramedic"
+      },
+      "nremt-emr": {
+        "title": "NREMT® EMR",
+        "subtitle": "Emergency Medical Responder"
+      },
+      "nremt-emt": {
+        "title": "NREMT® EMT",
+        "subtitle": "Emergency Medical Technician"
+      },
+      "nremt-paramedic": {
+        "title": "NREMT® Paramedic",
+        "subtitle": "National Registry Paramedic"
+      }
+    }
+  },
+  "CategoryHero": {
+    "subtitle": "Practice Tests and Study Materials"
+  }
+}

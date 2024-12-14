@@ -1,0 +1,54 @@
+{
+  "ExamCategories": {
+    "title": "Préparation aux examens pour réussir",
+    "categories": {
+      "behavioral-health": {
+        "title": "Santé comportementale"
+      },
+      "ems": {
+        "title": "Services médicaux d'urgence"
+      },
+      "essentials": {
+        "title": "Essentiels"
+      },
+      "fitness": {
+        "title": "Fitness"
+      },
+      "it-cybersecurity": {
+        "title": "IT & Cybersécurité"
+      },
+      "medical": {
+        "title": "Médical"
+      },
+      "nursing": {
+        "title": "Soins infirmiers"
+      },
+      "nursing-school": {
+        "title": "École d'infirmiers"
+      },
+      "professional": {
+        "title": "Professionnel"
+      },
+      "skilled-trades": {
+        "title": "Métiers spécialisés"
+      }
+    }
+  },
+  "ExamList": {
+    "questionCount": "{count, number} Questions",
+    "startPractice": "Commencer la pratique",
+    "exams": {
+      "firefighter-1-2": {
+        "title": "Pompier I & II",
+        "subtitle": "Pompier"
+      },
+      "nremt-aemt": {
+        "title": "NREMT® AEMT",
+        "subtitle": "Technicien médical d'urgence avancé"
+      }
+    }
+  },
+  "CategoryHero": {
+    "subtitle": "Tests de pratique et matériel d'étude"
+  }
+}

@@ -1,8 +1,9 @@
+const withNextIntl = require('next-intl/plugin')();
+
 const nextConfig = {
   reactStrictMode: true,
   images: {
     domains: [
-      // NextJS <Image> component needs to whitelist domains for src={}
       "lh3.googleusercontent.com",
       "pbs.twimg.com",
       "images.unsplash.com",
@@ -11,4 +12,4 @@ const nextConfig = {
   },
 };
 
-module.exports = nextConfig;
+module.exports = withNextIntl(nextConfig);
